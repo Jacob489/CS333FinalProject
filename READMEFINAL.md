@@ -1,5 +1,15 @@
 # CS333FinalProject
 
+First install necessary dependencies in root directory:
+npm install react react-dom
+npm install mongoose
+npm install cors
+npm install react-scripts
+npm install express
+npm install html2canvas
+npm install jspdf
+
+
 HOW TO BUILD:
 cd frontend
 npm run build
